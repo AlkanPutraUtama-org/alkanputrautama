@@ -297,7 +297,7 @@ main .intro-hr{
 }
 .main1{
     
-    background-image: url('img/Home.jpg');
+    background-image: url('/img/Home.jpg');
     background-size: cover;
     width: 100%;
     /* background-repeat: no-repeat; */
